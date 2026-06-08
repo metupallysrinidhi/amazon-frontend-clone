@@ -18,7 +18,7 @@
 .logo{
     position: relative;
     top: 13px;
-    background-image: url("logo1.png");
+    background-image: url("Required-images/logo1.png");
     background-size: contain;
     background-repeat: no-repeat;
     height: 50px;
@@ -126,7 +126,7 @@ span{
 
 /* Main Section */
 .main-section{
-    background-image: url("bg-image.jpg");
+    background-image: url("Required-images/bg-image.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -279,7 +279,7 @@ ul a{
     align-items: center;
 }
 .logo01{
-    background-image: url("logo1.png");
+    background-image: url("Required-images/logo1.png");
     background-size: cover;
     height: 15px;
     width: 45px;
